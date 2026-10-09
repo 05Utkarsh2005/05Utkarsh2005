@@ -18,14 +18,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Enthusiast;Machine+Learning+Explorer;Python+%26+SQL+Developer;Turning+Data+into+Insights" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://github.com/utkarshbodhe">
-    <img src="https://komarev.com/ghpvc/?username=utkarshbodhe&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/utkarshbodhe?tab=followers">
-    <img src="https://img.shields.io/github/followers/utkarshbodhe?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-  </a>
-</p>
 
 </div>
 
