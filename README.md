@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student specializing in **Data Science**
+
 - 🔭 Working on **Data Science, Machine Learning & AI projects**
 - 🌱 Learning **C++ DSA, Deep Learning, SQL & AI Engineering**
 - 👯 Open to collaborating on **AI, ML, Python & open-source projects**
