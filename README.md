@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on: **Data Science and AI projects, including machine learning and data analysis.**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms in C++, Machine Learning, Deep Learning, SQL, and AI Engineering.**
+- 🌱 I’m currently learning: **Data Structures & Algorithms in C++, Machine Learning, Deep Learning, SQL, and AI Engineering.**
 
-- 👯 I’m looking to collaborate on **Open-source projects related to AI, Machine Learning, Data Science, and Python development.**
+- 👯 I’m looking to collaborate on: **Open-source projects related to AI, Machine Learning, Data Science, and Python development.**
 
-- 🤝 I’m looking for help with **Building real-world AI projects, improving problem-solving skills, and contributing to open-source projects.**
+- 🤝 I’m looking for help with: **Building real-world AI projects, improving problem-solving skills, and contributing to open-source projects.**
 
-- 💬 Ask me about **Python, SQL, Data Science, Power BI, Machine Learning, and Data Analytics.**
+- 💬 Ask me about: **Python, SQL, Data Science, Power BI, Machine Learning, and Data Analytics.**
 
-- 📫 How to reach me **bodheutkarsh@gmail.com**
+- 📫 How to reach me: **bodheutkarsh@gmail.com**
 
-- ⚡ Fun fact **I love turning data into insights and ideas into intelligent AI-powered solutions!**
+- ⚡ Fun fact: **I love turning data into insights and ideas into intelligent AI-powered solutions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
