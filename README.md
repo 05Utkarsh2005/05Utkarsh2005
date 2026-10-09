@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Bodhe</h1>
 <h3 align="center">Building intelligent solutions with Data Science, AI & Machine Learning 🚀💡</h3>
 
-- 🔭 I’m currently working on **Data Science and AI projects, including machine learning and data analysis.**
+- 🔭 I’m currently working on: **Data Science and AI projects, including machine learning and data analysis.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms in C++, Machine Learning, Deep Learning, SQL, and AI Engineering.**
 
